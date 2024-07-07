@@ -5,7 +5,7 @@ Starter code for RAG (Retrieval Augmented Generation) projects and tools. This r
 [Tutorial Slides](https://docs.google.com/presentation/d/1dzA5O_DFhXtvsByuDG37SlUHvIUyYBrpdFIAod5SFho/edit?usp=sharing)
 
 <p align="center">
-  <img src="download (4).png" alt="RAG Resources Logo" width="300"/>
+  <img src="download5.png" alt="RAG Resources Logo" width="300"/>
 </p>
 
 ## Examples
