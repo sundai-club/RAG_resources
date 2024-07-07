@@ -16,7 +16,7 @@ This repository supports various RAG scenarios, including:
 - [Add more examples as you develop them]
 
 <p align="center">
-  <img src="path_to_overview_image.jpg" alt="RAG Scenarios Overview" height="350"/>
+  <img src="rag_pipeline.jpg" alt="RAG Scenarios Overview" height="350"/>
 </p>
 
 ## 👥 Target Audience
