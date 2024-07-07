@@ -12,6 +12,7 @@ Starter code for RAG (Retrieval Augmented Generation) projects and tools. This r
 
 This repository supports various RAG scenarios, including:
 
+- ☝️ Create Embeddings Notebook: Introductory notebook to create and use vector embeddings in chat
 - 🔍 AI News Hound: A tool for journalists to uncover newsworthy AI research topics
 
 <p align="center">
