@@ -27,12 +27,14 @@ Our target audience includes data scientists, machine learning engineers, and de
 
 To get started, navigate to the [Setup Guide](link_to_your_setup_guide.md), which lists instructions on how to setup the compute environment and dependencies needed to run the notebooks in this repo.
 
+For the AI News Hound project, you can start with this Jupyter notebook:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing)
 
 ## 📊 Scenarios
 
 | Scenario | Support | Description | Notebook |
 |----------|---------|-------------|----------|
-| 🔍 AI News Hound | Base | A tool for journalists to identify potentially newsworthy AI research topics by visualizing and analyzing relationships between scientific papers, news articles, and social media discussions. | [Open In Colab](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing) |
+| 🔍 AI News Hound | Base | A tool for journalists to identify potentially newsworthy AI research topics by visualizing and analyzing relationships between scientific papers, news articles, and social media discussions. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing) |
 | [Future Scenario 1] | Planned | Description of future scenario 1 | - |
 | [Future Scenario 2] | Planned | Description of future scenario 2 | - |
 
