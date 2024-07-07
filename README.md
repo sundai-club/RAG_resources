@@ -27,9 +27,6 @@ Our target audience includes data scientists, machine learning engineers, and de
 
 To get started, navigate to the [Setup Guide](link_to_your_setup_guide.md), which lists instructions on how to setup the compute environment and dependencies needed to run the notebooks in this repo.
 
-For the AI News Hound project, you can start with this Jupyter notebook:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing)
-
 ## 📊 Scenarios
 
 | Scenario | Support | Description | Notebook |
