@@ -13,7 +13,6 @@ Starter code for RAG (Retrieval Augmented Generation) projects and tools. This r
 This repository supports various RAG scenarios, including:
 
 - 🔍 AI News Hound: A tool for journalists to uncover newsworthy AI research topics
-- [Add more examples as you develop them]
 
 <p align="center">
   <img src="rag_pipeline.jpg" alt="RAG Scenarios Overview" height="350"/>
