@@ -27,14 +27,12 @@ Our target audience includes data scientists, machine learning engineers, and de
 
 To get started, navigate to the [Setup Guide](link_to_your_setup_guide.md), which lists instructions on how to setup the compute environment and dependencies needed to run the notebooks in this repo.
 
-For the AI News Hound project, you can start with this Jupyter notebook:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing)
 
 ## 📊 Scenarios
 
 | Scenario | Support | Description | Notebook |
 |----------|---------|-------------|----------|
-| 🔍 AI News Hound | Base | A tool for journalists to identify potentially newsworthy AI research topics by visualizing and analyzing relationships between scientific papers, news articles, and social media discussions. | [Open Notebook](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing) |
+| 🔍 AI News Hound | Base | A tool for journalists to identify potentially newsworthy AI research topics by visualizing and analyzing relationships between scientific papers, news articles, and social media discussions. | [Open In Colab](https://colab.research.google.com/drive/1KfPY-RPPCYX9hBdtRPDRNCXlFKRl0EiL?usp=sharing) |
 | [Future Scenario 1] | Planned | Description of future scenario 1 | - |
 | [Future Scenario 2] | Planned | Description of future scenario 2 | - |
 
@@ -60,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 MIT License
 
-Copyright (c) 2023 [Your Name or Organization]
+Copyright (c) 2023 [Sundai.Club]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -71,11 +69,3 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
