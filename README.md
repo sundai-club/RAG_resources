@@ -1,12 +1,13 @@
 # 🚀 RAG Resources
 
+<p align="center">
+  <img src="src/download5.png" alt="RAG Resources Logo" width="300"/>
+</p>
+
 Starter code for RAG (Retrieval Augmented Generation) projects and tools. This repository provides examples and best practice guidelines for building RAG systems. Our goal is to build a comprehensive set of tools and examples that leverage recent advances in natural language processing, information retrieval, and machine learning.
 
 [📚 Tutorial Slides](https://docs.google.com/presentation/d/1dzA5O_DFhXtvsByuDG37SlUHvIUyYBrpdFIAod5SFho/edit?usp=sharing)
 
-<p align="center">
-  <img src="src/download5.png" alt="RAG Resources Logo" width="300"/>
-</p>
 
 ## 🌟 Examples
 
